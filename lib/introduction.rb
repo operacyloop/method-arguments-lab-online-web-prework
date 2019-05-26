@@ -1,3 +1,3 @@
 def introduction(name)
-  puts "Hello YOU! Your robot here!"
+  puts "Hi, my name is #{name}."
 end
